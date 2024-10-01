@@ -145,3 +145,7 @@ We will clone and build it from your GitHub repo. We will not get code from any 
     * 1 pt: Choose another developer option from the Developer Options screen, research what it's used for, and write up a quick paragraph (in your copy of this README file) on whether you believe you will use this feature during class this quarter.
 
 When you turn in the homework in Canvas, put in the link to your GitHub repo.
+
+
+
+Pointer Location Tool- It draws the movement of your finger along the screen while also showing coordinates. If I were to create an application that relies a lot on touch drag especially if it requieres percise movement it would be very useful!
